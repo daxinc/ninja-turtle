@@ -1,6 +1,6 @@
 import turtle
 
-screen = turtle.getscreen()
+screen = turtle.Screen()
 agnes = turtle.Turtle()
 
 

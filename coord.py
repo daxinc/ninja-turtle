@@ -1,6 +1,7 @@
 import turtle
 
-screen = turtle.getscreen()
+screen = turtle.Screen()
+screen.setup(820, 620)
 agnes = turtle.Turtle()
 
 agnes.penup()

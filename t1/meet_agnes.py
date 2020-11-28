@@ -1,7 +1,7 @@
 import turtle
 # import random
 
-screen = turtle.getscreen()
+screen = turtle.Screen()
 t = turtle.Turtle()
 
 t.forward(150)
